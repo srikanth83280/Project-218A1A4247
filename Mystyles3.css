@@ -1,0 +1,54 @@
+
+nav{
+    background-color: rgba(214, 64, 64, 0.678);
+    padding:5;
+    font-size:large;
+
+}
+nav ul{
+list-style-type: none;
+text-decoration: none;
+}
+nav ul li{
+    display:inline;
+    padding:10;
+}
+nav ul li a{
+    color:rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+nav ul li a:hover{
+    color:rgb(255, 253, 253);
+    text-decoration: underline;
+}
+section{
+    padding:20px;
+}
+header{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20;
+}
+footer{
+    background-color: rgb(0, 0, 0);
+    padding:10px 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    color:rgb(255, 255, 255);
+    text-align: center;
+
+}
+div{
+    color:rgb(255, 255, 255);
+    font-size: 18;
+    font-family: cursive;
+}
+body{
+    background-image: url("Nikon.jpg");
+    background-position-x: center;
+    background-repeat: no repeat;
+    background-size: 100%;
+}
+
+
